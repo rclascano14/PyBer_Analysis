@@ -5,7 +5,8 @@ Throughout this module, we have been tasked with creating data visualizations to
 <img width="715" alt="Differences between cities" src="https://user-images.githubusercontent.com/95828604/151263086-535846dc-ffc6-4d56-aec2-731cabaa81c9.png">
 <img width="1110" alt="Deliverable 2 (Whisker Plot)" src="https://user-images.githubusercontent.com/95828604/151263370-6e528577-e6e9-4416-b3a1-c2e878417208.png">
 - Urban cities have by far the most rides, drivers and total fares. This is followed by Suburban cities and Rural cities come in last with by far the least total amount of rides, drivers and fares. 
-- Conversely, likely due to distance and small numbers, Rural cities have the largest Average Fare per Ride and Average Fare per Driver. In opposite order from my last point, Suburban cities come in the middle and Urban cities come in last with the cheapest fare averages for both rides and drivers.  
+- Conversely, likely due to distance and small numbers, Rural cities have the largest Average Fare per Ride and Average Fare per Driver. In opposite order from my last point, Suburban cities come in the middle and Urban cities come in last with the cheapest fare averages for both rides and drivers.
+  
 ## 3. Summary:
 With the overview and results having been layed out, I will now proceed to offer three business recommendations to the CEO for addressing any disparities among the city types. 
 - Urban cities certainly deal with the most traffic and obstacles, so a way to decrease the discepancies among average fare per drivers and average fare per ride is to charge more in urban cities as a way of addressing these issues experienced heavily among Urban cities. 
