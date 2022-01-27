@@ -3,7 +3,7 @@
 Throughout this module, we have been tasked with creating data visualizations to analyze urban, suburban and rural cities and their fare costs, their total of rides and their driver count, etc. In this pursuit, we have learned how to do all manner of plots from bar graphs, pie charts, scatter plots, etc. Having learned these useful visualization skills, we are now asked to create a summary DataFrame of the ride sharing data by city type. Afterwards, we use Pandas and Matplotlib to create a multipe-graph lines that allows us to see total weekly fares in each city type. Now, with this third deliverable, I will summarize and show how the data is different with rach city type as well as how we can use these discrepancies in decision making. 
 ## 2. Results:
 <img width="715" alt="Differences between cities" src="https://user-images.githubusercontent.com/95828604/151263086-535846dc-ffc6-4d56-aec2-731cabaa81c9.png">
-<img width="1110" alt="Deliverable 2 (Whisker Plot)" src="https://user-images.githubusercontent.com/95828604/151263370-6e528577-e6e9-4416-b3a1-c2e878417208.png">
+<img width="1106" alt="Deliverable 2 (Whisker Plot)" src="https://user-images.githubusercontent.com/95828604/151274149-59960a75-b722-4196-8699-e062349b3600.png">
 - Urban cities have by far the most rides, drivers and total fares. This is followed by Suburban cities and Rural cities come in last with by far the least total amount of rides, drivers and fares. 
 - Conversely, likely due to distance and small numbers, Rural cities have the largest Average Fare per Ride and Average Fare per Driver. In opposite order from my last point, Suburban cities come in the middle and Urban cities come in last with the cheapest fare averages for both rides and drivers.
   
