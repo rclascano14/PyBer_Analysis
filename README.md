@@ -1,4 +1,12 @@
 # PyBer_Analysis
+`Analyzing and visualizing ride-sharing data using the power of Python, Pandas, and your newest tool, Matplotlib.`
+
+## Resources
+- Python 3.7.11
+- Conda, Pandas, Numpy, ipykernal
+- Jupyter Notebook
+- Matplotlib
+
 ## 1. Overview of the Analysis: 
 Throughout this module, we have been tasked with creating data visualizations to analyze urban, suburban and rural cities and their fare costs, their total of rides and their driver count, etc. In this pursuit, we have learned how to do all manner of plots from bar graphs, pie charts, scatter plots, etc. Having learned these useful visualization skills, we are now asked to create a summary DataFrame of the ride sharing data by city type. Afterwards, we use Pandas and Matplotlib to create a multipe-graph lines that allows us to see total weekly fares in each city type. Now, with this third deliverable, I will summarize and show how the data is different with rach city type as well as how we can use these discrepancies in decision making. 
 ## 2. Results:
